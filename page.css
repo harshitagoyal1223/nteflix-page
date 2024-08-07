@@ -1,0 +1,256 @@
+*{
+    margin:0;
+    border: border-box;
+}
+
+.page1{
+    background-image: url("netflix_page1.jpg");
+    background-size:cover;
+    height:100vh;
+    width:200vh;
+    border-bottom : 8px solid #373737;
+    
+}
+
+.header{
+    display:flex;
+    height:48px;
+    width:900px;
+    padding: 24px 48px;
+    margin: 0px 105.8px;
+}
+
+.heading{
+    color:red;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 45px;
+}
+
+.language{
+    
+    background-color: none;
+    margin-left: 750px;
+}
+
+#lang{
+    height: 32px;
+    width: 110px;
+    background-color: none;
+padding:5px 20px;
+}
+
+.sign{
+    margin-left:20px ;
+    
+
+}
+
+.button1{
+    color:white;
+    background-color: red;
+    font-size: 12px;
+    height: 32px;
+    width: 70px;
+}
+
+.text{
+    justify-self: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 175px;
+
+}
+
+.text1{
+    color:white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-self: center;
+    margin-left:300px;
+}
+.text2{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:24px;
+    margin-top: 16px;
+    justify-self: center;
+    margin-left:600px;
+}
+.text3{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    justify-self: center;
+    margin-left: 450px;
+    margin-top: 25px;
+
+}
+
+#email{
+    width: 350px;
+    height: 50px;
+    margin: 24px 16px 8px 16px;
+    background-color: none;
+}
+
+.email{
+    margin-left: 425px;
+}
+
+.mail{
+    height: 100px;
+    width:600px;
+    display: flex;
+}
+
+#started{
+    background-color: red;
+    color: white;
+    height:50px;
+    width:200px;
+    margin-top: 24px;
+
+}
+
+.page2{
+    background-color: black;
+    background-size:cover;
+    height:450px;
+    width:200vh;
+    border-bottom: 8px solid #373737;
+}
+
+.text20{
+    color:white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    height:200px;
+    width:550px;
+}
+.page3{
+    background-color: black;
+    background-size:cover;
+    height:450px;
+    width:200vh;
+    border-bottom : 8px solid #373737;
+}
+
+.text30{
+    color:white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    height:200px;
+    width:650px;
+}
+.page4{
+    background-color: black;
+    background-size:cover;
+    height:450px;
+    width:200vh;
+    border-bottom : 8px solid #373737;
+}
+
+.text40{
+    color:white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    height:250px;
+    width:550px;
+}
+.page5{
+    background-color: black;
+    background-size:cover;
+    height:450px;
+    width:200vh;
+    border-bottom : 8px solid #373737;
+}
+
+.text50{
+    color:white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    height:200px;
+    width:550px;
+}
+
+.a,b,c,d{
+    margin-bottom: 16px;
+
+}
+
+.box1{
+    height: 450px;
+    width: 900px;
+    display:flex;
+    padding: 72px 0px;
+    margin: 0px 150px;
+}
+
+.box2{
+    height: 450px;
+    width: 900px;
+    display:flex;
+    padding: 72px 0px;
+    margin: 0px 150px;
+}
+
+.box3{
+    height: 450px;
+    width: 900px;
+    display:flex;
+    padding: 72px 0px;
+    margin: 0px 150px;
+}
+
+.box4{
+    height: 450px;
+    width: 900px;
+    display:flex;
+    padding: 72px 0px;
+    margin: 0px 150px;
+}
+
+.page6{
+    background-color: black;
+    height:1250px;
+    padding: 72px 0px;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+}
+.box5{
+    padding: 72px 0px;
+    height:950px;
+    width:750px;
+    background-color: black;
+    justify-items: center;
+    display: inline;
+    align-items: center;
+}
+
+.e{
+    color:white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 16px;
+}
+
+.text60{
+    display:inline;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    height:80px;
+    width:900px;
+    background-color: #373737;
+    color:white;
+    padding:24px;
+    font-size: 21px;
+    justify-content: left;
+    align-items: center;
+    display: flex;
+    border-bottom: 4px solid black;
+
+}
